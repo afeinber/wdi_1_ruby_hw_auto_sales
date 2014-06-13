@@ -6,4 +6,4 @@ class Damage
     @description = description
   end
 
-
+end
